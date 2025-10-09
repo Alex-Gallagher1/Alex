@@ -100,4 +100,4 @@ def duplicatelist(lst):
 def square(num): #The error was in this line as they forgot the colon
     return num*num
 
-print(evenorodd(2785748939034))
+# print(evenorodd(2785748939034))
